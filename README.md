@@ -30,6 +30,6 @@ Check out my work here:
 
 ### 🤝 Let's Connect!
 - GitHub: [@CdySirjan](https://github.com/CdySirjan)
-- Email: *(yoursirjan@gmail.com)*
+- Email: *yoursirjan@gmail.com*
 
 Thanks for visiting! 🚀

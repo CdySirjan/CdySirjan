@@ -10,7 +10,7 @@ Here are some of the tools and technologies I work with:
 - 🌐 **Frontend**: HTML, CSS, Tailwind CSS, JavaScript , React.js , vite
 - ⚙️ **Backend**: Node.js, Express.js, PHP
 - 🗄️ **Databases**: MongoDB, MySQL
-- 🛠️ **Others**: Git, GitHub, Vercel
+- 🛠️ **Others**: Git, GitHub, Vercel, PostMan
 
 ---
 

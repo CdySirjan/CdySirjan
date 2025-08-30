@@ -8,7 +8,7 @@ I'm a passionate web developer who enjoys building responsive, functional, and u
 Here are some of the tools and technologies I work with:
 
 - 🌐 **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, Vite, Blade  
-- ⚙️ **Backend**: Node.js, Express.js, PHP, Laravel  
+- ⚙️ **Backend**: Node.js, Express.js,Java, PHP, Laravel  
 - 🗄️ **Databases**: MongoDB, MySQL, PostgreSQL  
 - 🔑 **Auth & Security**: Clerk  
 - 🛠️ **Others**: Git, GitHub, Vercel, Postman  
